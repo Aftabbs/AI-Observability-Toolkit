@@ -1,0 +1,18 @@
+# Core LangChain dependencies
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-groq>=0.1.0
+
+# Dashboard and visualization
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
