@@ -179,6 +179,11 @@ python examples/langgraph_example.py
 # Session tracking
 python examples/session_tracking.py
 ```
+<img width="1918" height="802" alt="image" src="https://github.com/user-attachments/assets/32747830-17b9-455d-ba79-3e17c362bcc4" />
+
+
+<img width="1915" height="820" alt="image" src="https://github.com/user-attachments/assets/4984171f-e330-4558-b6dc-b4e8966720b7" />
+
 
 ## Dashboard Features
 
