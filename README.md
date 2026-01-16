@@ -8,7 +8,7 @@ Comprehensive monitoring, tracing, and debugging toolkit for production AI/LLM a
 ## Features
  
 ✅ **Fully Implemented:**
-- **Request Tracing**: Automatically track every LLM call, chain, agent, and tool execution
+- **Request Tracing**: Automatically track every LLM call, chain, agent, and tool execution 
 - **Cost Monitoring**: Real-time token usage and API cost tracking with Groq pricing
 - **Latency Analytics**: P50, P95, P99 response time metrics and latency distributions
 - **Error Detection**: Automatic error tracking, categorization, and anomaly detection
