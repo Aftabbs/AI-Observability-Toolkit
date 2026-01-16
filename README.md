@@ -6,7 +6,7 @@
 Comprehensive monitoring, tracing, and debugging toolkit for production AI/LLM applications built with LangChain, LangGraph, and Groq.
 
 ## Features
-
+ 
 ✅ **Fully Implemented:**
 - **Request Tracing**: Automatically track every LLM call, chain, agent, and tool execution
 - **Cost Monitoring**: Real-time token usage and API cost tracking with Groq pricing
